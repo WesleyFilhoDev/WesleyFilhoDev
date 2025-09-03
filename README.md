@@ -47,15 +47,6 @@ Atualmente atuo no Desenvolvimento Web. Meu último projeto criado foi a platafo
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WesleyFilhoDev/WesleyFilhoDev/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WesleyFilhoDev/WesleyFilhoDev/output/github-contribution-grid-snake.svg?palette=github-light">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/WesleyFilhoDev/WesleyFilhoDev/output/github-contribution-grid-snake.svg?palette=github-light">
-</picture>
-
-
----
-
 ## 📬 Contato
 <p align="center">
   <a href="mailto:seuemail@gmail.com">
